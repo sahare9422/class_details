@@ -2,4 +2,20 @@
 19 = MAVEN
 20 = how to run jenkins server
 
-21 = run simple jenkins job like we used local variaable , we did shcdular , we did cron job also , also we integrate git by using git repo we build a job 
+21 = run simple jenkins job like we used local variaable , we did shcdular , we did cron job also , also we integrate git by using git repo we build a job
+
+22 = intergrating jenkins severe and other server and did file tranfer practical
+
+
+
+
+
+
+
+
+
+
+
+
+
+
