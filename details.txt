@@ -7,7 +7,9 @@
 22 =  -intergrating jenkins severe and other server and did file tranfer practical
       - totransfer file from jenkin server to other add "publish over ssh" pluggin 
       - to save jenkins job history add "job configuration history " pluggin
-      - concept of variables > local variable , global vairable 
+      - concept of variables > local variable , global vairable
+      - how to change jenkins 8080 port
+      - how to increse build exicuter
 
 
 
