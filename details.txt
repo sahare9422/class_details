@@ -1,2 +1,4 @@
 13-18 = GIT
 19 = MAVEN
+20 = how to run jenkins server
+21 = run simple jenkins job
