@@ -11,9 +11,12 @@
       - how to change jenkins 8080 port
       - how to increse build exicuter
 
-
-
-
+23 = - poll scm 
+     - 17:00 webhooks      
+     - 31:00 throttle build , build trigger , trigger build remotly 
+     - 41:00 setup tomcat (dlcdn.apche.org)
+     - storing war file on s3 (s3 publisher)-->pluggin 
+     - TO UNZIP tar FILE  -------> tar -zxvf <filename>
 
 
 
