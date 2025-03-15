@@ -17,6 +17,9 @@
      - 41:00 setup tomcat (dlcdn.apche.org)
      - storing war file on s3 (s3 publisher)-->pluggin 
      - TO UNZIP tar FILE  -------> tar -zxvf <filename>
+     -how to add user in TOMCAT ===> <role rolename="manager-gui"/>
+                                     <role rolename="manager-script"/>
+                                     <user username="tomcat" password="root123456" roles="manager-gui,manager-script"/>
 
 
 
